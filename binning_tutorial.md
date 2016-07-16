@@ -78,7 +78,7 @@ Q: Can you think of a reason why we couldn't use the partial assembled contigs f
 
 7. What if we want to bin the contigs with different threshold?
     ```
-    cd ~/data/SRR492065.sam.bam.sorted.bam.bin
+    cd ~/data/SRR492065.sam.bam.sorted.bam.bins
     #First, try sensitive mode to better sensitivity
     ~/metabat/bin/metabat -i ~/data/final.contigs.fa -a final.contigs.fa.depth.txt -o bin1 --sensitive -l -v --saveTNF saved.tnf --saveDistance saved.gprob
 
