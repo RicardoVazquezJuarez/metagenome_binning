@@ -49,7 +49,7 @@ Now, let's download our software.
 This tutorial takes place assuming you have an assembled metagenome and its mapped read abundances.
 
 5. So you learned about how to assemble sequences yesterday and assembled some contigs, 
-for today's tutorial, we need a full assembled file.
+for today's tutorial, we need a full assembled file. 
    Let's also get some assembled and mapped data. 
    ```
    cd ~
@@ -58,6 +58,7 @@ for today's tutorial, we need a full assembled file.
    wget https://s3.amazonaws.com/edamame/SRR492065.sam.bam.sorted.bam
    wget https://s3.amazonaws.com/edamame/final.contigs.fa
    ```
+Q: Can you think of a reason why we couldn't use the partial assembled contigs from the metagenome assembly exercise? 
 
 6. Now let's do some binning!
     ```
