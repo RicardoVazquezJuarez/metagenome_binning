@@ -25,7 +25,7 @@ Metagenome binning using MetaBAT
 
 4. Install MetaBAT
    ```
-   cd
+   cd ~
    bash ~/metagenome_binning/installation.sh
    ```
 
