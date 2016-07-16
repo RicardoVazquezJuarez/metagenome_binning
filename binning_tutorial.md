@@ -41,6 +41,8 @@ Now, let's download our software.
    less README.md
    less INSTALL.md
    ```
+   Don't forget to push "q" key to exist the "less" window.
+
 
 4. Install MetaBAT
    ```
