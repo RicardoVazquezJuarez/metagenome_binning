@@ -29,6 +29,8 @@ Now, let's download our software.
    ```
    cd ~
    sudo apt-get install git    ## EC2 does not have git installed by default
+   ```
+   ```
    git clone https://bitbucket.org/berkeleylab/metabat.git metabat_clone
    git clone https://github.com/edamame-course/metagenome_binning
    ```
