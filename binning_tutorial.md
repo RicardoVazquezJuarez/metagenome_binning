@@ -1,5 +1,19 @@
-Metagenome binning using MetaBAT
----
+
+#Metagenome binning using MetaBAT
+Authored by Fan Yang 
+[EDAMAME-2016 wiki](https://github.com/edamame-course/2016-tutorials/wiki)
+
+***
+EDAMAME tutorials have a CC-BY [license](https://github.com/edamame-course/2015-tutorials/blob/master/LICENSE.md). _Share, adapt, and attribute please!_
+***
+
+##Overarching Goal
+* This tutorial will contribute towards an understanding of **microbial metagenome analysis**
+
+##Learning Objectives
+* Understand metagenomic binning and perform a binning exercise
+
+##Tutorial
 
 [MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities] (https://peerj.com/articles/1165/)
 
