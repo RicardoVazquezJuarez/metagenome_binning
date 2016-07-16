@@ -14,12 +14,15 @@ EDAMAME tutorials have a CC-BY [license](https://github.com/edamame-course/2015-
 * Understand metagenomic binning and perform a binning exercise
 
 ##Tutorial
+We will be running a specific tool for metagenomic binning called MetaBAT.  You can read about this tool and its applications in the original paper, [MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities] (https://peerj.com/articles/1165/)
 
-[MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities] (https://peerj.com/articles/1165/)
+Let's start by getting our computer!
 
 1. Initiate an Amazon EC2 instance if you don't have one launched already   
    a. ubuntu   
    b. m3.large    
+
+Now, let's download our software.
 
 2. Where to get MetaBAT?    
    A: MetaBAT is deposited in BitBucket (remote repository like GitHub)
@@ -42,6 +45,8 @@ EDAMAME tutorials have a CC-BY [license](https://github.com/edamame-course/2015-
    cd ~
    bash ~/metagenome_binning/installation.sh
    ```
+
+This tutorial takes place assuming you have an assembled metagenome and its mapped read abundances.
 
 5. So you learned about how to assemble sequences yesterday and assembled some contigs, 
 for today's tutorial, we need a full assembled file.
